@@ -1,4 +1,4 @@
-# AI-Powered Smart Mall Management System 🏬🤖📊🛍️
+# smart mall management 🏬🤖📊🛍️
 
 Welcome to the AI-Powered Smart Mall Management System project repository! 🌟
 
@@ -33,7 +33,7 @@ To use this smart mall management system, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Leelaprasad001/AI-Powered-Smart-Mall-Management-System.git
+   git clone https://github.com/UmaMaheshkondaveti/smart-mall-Management.git
 
 2. Commands to run:
    ```bash
