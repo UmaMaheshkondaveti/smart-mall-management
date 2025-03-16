@@ -16,7 +16,7 @@ With this information, businesses can make more accurate predictions about custo
 Our methodology consists of four modules:
 
 ### 1. Parallel Camera Input Reading Using Multi-Processing
-   - Description: This module handles the parallel input reading from cameras using multi-processing for efficient data collection.
+   - Description: This module handles the parallel input reading from cameras using multi-processing for efficient data collection. 
 
 ### 2. Yolov-8 For Face Detection In Input Frames
    - Description: Yolov-8 is employed for face detection in the input frames to track customer movements.
