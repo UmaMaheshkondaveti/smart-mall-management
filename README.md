@@ -3,7 +3,7 @@
 Welcome to the AI-Powered Smart Mall Management System project repository! 🌟
 
 ## Project Overview
-
+ 
 In today's highly competitive retail landscape, understanding customer behavior and preferences is essential for businesses to stay ahead. 
 
 This project relates to an artificial intelligence system and method for smart mall management, focusing on business forecasting and security. The recommended system identifies and quantifies the types of customers, providing details of actual customer footprints for each outlet. 
